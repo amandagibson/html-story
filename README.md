@@ -1,5 +1,7 @@
 ## 🏰 Hawthorne Castle Adventure
 
+Deployed with Netlify at https://hawthorne-castle-adventure.netlify.app/
+
 A choose-your-own-path text adventure. Reach the castle gates before midnight — or don't.
 
 ### Story
